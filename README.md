@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on research papers, writing, conference talks.
 - 📫 How to reach me - say hello on slack.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like rocket engines and fountain pens (have loads of them :p)
+- ⚡ Fun fact: I like rocket engines and fountain pens
 
 <!---
 lkale-gp/lkale-gp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
